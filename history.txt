@@ -1,0 +1,332 @@
+    1  scp ec2-user@linux.itcareerhub.de:/opt/250425-wdm/sasha-kot/test1.txt .
+    2  ls -la | head -10 >> /opt/250425-wdm/sasha-kot/test/output.tx
+    3  cd bin
+    4  cd /bin
+    5  pwd
+    6  clear
+    7  cat sasha-kot
+    8  cd /opt/25.04.25-wdm
+    9  clear
+   10  ssh-keygen
+   11  cat .ssh/id_
+   12  ssh-keygen
+   13  cat .ssh/id_clear
+   14  clear
+   15  ssh-keygen
+   16  cat .ssh/id_
+   17  cat .ssh/id_rsa.pub
+   18  ssh ec2-user@linux.itcareerhub.de
+   19  cat .ssh/id_rsa.pub
+   20  ssh ec2-user@linux.itcareerhub.de
+   21  ssh ec2-user@linux.itcareerhub.de
+   22  ssh ec2-user@linux.itcareerhub.de
+   23  clear
+   24  cd .ssh
+   25  ls -ls
+   26  [200~user@linux.itcareerhub.de~
+   27  ssh ec2-user@linux.itcareerhub.de
+   28  ssh-keygen
+   29  ssh-keygen
+   30  clear
+   31  ec2-user@linux.itcareerhub.de
+   32  clear
+   33  exit
+   34  clear
+   35  pwd
+   36  cd ~
+   37  clear
+   38  cd .ssh
+   39  ls -ls
+   40  cat id_rsa.pub
+   41  clear
+   42  exit
+   43  clear
+   44  ps -pf
+   45  ssh -i ~/.ssh/id_rsa ec2-user@linux.itcareerhub.de
+   46  clear
+   47  pwd
+   48  export KOTENKO_VARIABLE=250425-wdm
+   49  touch /opt/250425-wdm/sasha-kot/.process_management
+   50  cd /opt/250425-wdm/sasha-kot
+   51  cd /opt/250425-wdm
+   52  cd /opt/250425/wdm
+   53  ls -la
+   54  exit
+   55  pwd
+   56  ssh -i ~/.ssh/id_rsa ec2-user@linux.itcareerhub.de^C
+   57  cat id_rsa.pub
+   58  ec2-user@linux.itcareerhub.de
+   59  ssh ec2-user@linux.itcareerhub.de
+   60  echo KOTENKO_VARIABLE
+   61  touch /opt/250425-wdm/sasha-kot/.process_management
+   62  cd /opt/250425-wdm/sasha-kot
+   63  cd /opt/250425-wdm
+   64  cd /opt/250425/wdm
+   65  cd ~/250425-wdm
+   66  cd /opt
+   67  clear
+   68  ssh ec2-user@linux.itcareerhub.de
+   69  ssh ec2-user@linux.itcareerhub.de
+   70  mkdir HW1
+   71  cd HW1
+   72  scp ssh ec2-user@linux.itcareerhub.de:/opt/250425-wdm/sasha-kot/..process_management.
+   73  scp ssh ec2-user@linux.itcareerhub.de:/opt/250425-wdm/sasha-kot/.process_management.
+   74  scp ssh ec2-user@linux.itcareerhub.de:/opt/250425-wdm/sasha-kot/.process_management
+   75  scp ec2-user@linux.itcareerhub.de:/opt/250425-wdm/sasha-kot/.process_management.
+   76  cat HW1
+   77  scp ec2-user@linux.itcareerhub.de:/opt/250425-wdm/sasha-kot/.process_management
+   78  scp ec2-user@linux.itcareerhub.de:/opt/250425-wdm/sasha-kot/.process_management .
+   79  cat
+   80  cat .process_management
+   81  ls -l
+   82  ls -a
+   83  pwd
+   84  ec2-user@linux.itcareerhub.de
+   85  ssh ec2-user@linux.itcareerhub.de
+   86  clear
+   87  mkdir git_intro
+   88  cd git_intro
+   89  git init
+   90  ls -la
+   91  touch cat.jpg
+   92  git add .
+   93  git status
+   94  git branch -M main
+   95  git remote add origin git@github.com:AlexKot13/git_intro.git
+   96  git remote -v
+   97  git push -u origin main
+   98  cd ..
+   99  rm -rf git_intro
+  100  ssh ec2-user@linux.itcareerhub.de
+  101  ssh ec2-user@linux.itcareerhub.de
+  102  cd
+  103  mkdir 1706
+  104  cd 1706
+  105  ls -l
+  106  git init
+  107  git config --global user.name "AlexKot13"
+  108  git config --global user.email "bubochka.a.kotenko@gmail.com"
+  109  echo "# 1706" >> README.md
+  110  ls -la
+  111  git status
+  112  git add README.md
+  113  git commit -m "added file README.md"
+  114  git branch -M main
+  115  git remote add origin github.com/AlexKot13/1706.git
+  116  git remote -v
+  117  git push -u origin main
+  118  history
+  119  cat ~/.ssh/id_rsa.pub
+  120  git push -u origin main
+  121  git remote remove origin
+  122  git remote -v
+  123  git remote add origin git@github.com:AlexKot13/1706.git
+  124  git push -u origin main
+  125  ls -l
+  126  echo >>README.md
+  127  echo "some text">> README.md
+  128  touch file.txt
+  129  mkdir test
+  130  ls -l
+  131  git status
+  132  git add .
+  133  git commit -m "modified README.md+added date some text, created file.txt"
+  134  git push
+  135  git log
+  136  git log --oneline --graph
+  137  cd ..
+  138  rm -rf 1706
+  139  mkdir testing
+  140  cd testing
+  141  git init 
+  142  branch -M main
+  143  echo "# test" >> README.md
+  144  git status
+  145  git add .
+  146  comit -m "added README"
+  147  git comit -m "added README"
+  148  git branch -M main
+  149  git remote add origin git@github.com:AlexKot13/testing.git
+  150  git push -u origin main
+  151  cd ..
+  152  rm -rf testing
+  153  mkdir git_intro
+  154  cd git_intro
+  155  git init
+  156  ls -l
+  157  ls -la
+  158  touch cat.jpg
+  159  ls
+  160  git add .
+  161  git status
+  162  [200~git commit -m "Added photo"
+  163  ~git commit -m "Added photo"
+  164  git add cat.jpg
+  165  git commit -m "Added photo"
+  166  cd ..
+  167  rm -rf git_intro
+  168  mkdir git_intro
+  169  cd git_intro
+  170  rm -rf git_intro
+  171  mkdir git_intro
+  172  cd git_intro
+  173  git init
+  174  ls -la
+  175  touch cat.jpg
+  176  git add cat.jpg
+  177  git commit -m "Added photo"
+  178  git branch -M main
+  179  git remote add origin git@github.com:AlexKot13/git_intro.git
+  180  git remote -v
+  181  git push -u origin main
+  182  git status
+  183  rm cat.jpg
+  184  git add cat.jpg
+  185  git comit -m "Real cat.jpg"
+  186  git commit -m "Real cat.jpg"
+  187  git push
+  188  cp C:\Users\ICH\Desktop\git_intro\cat.jpg.avif .
+  189  cp /c/Users/ICH/Desktop/git_intro/cat.jpg.avif .
+  190  rm -rf git_intro
+  191  cd ..
+  192  rm -rf git_intro
+  193  cd /c/Users/ICH/Desktop/Linux/git_intro/cat.avif
+  194  cd /c/Users/ICH/Desktop/Linux/git_intro
+  195  ls -la
+  196  ls git_intro
+  197  mkdir git_intro
+  198  cd git_intro
+  199  git init
+  200  ls -l
+  201  ls -la
+  202  touch 1.bmp
+  203  ls
+  204  git add .
+  205  git status
+  206  git branch -M main
+  207  git commit -m "Added photo"
+  208  git remote add origin git@github.com:AlexKot13/git_intro.git
+  209  git remote -v
+  210  git push -u origin main
+  211  cd ..
+  212  rm -rf git_intro
+  213  git status
+  214  ssh ec2-user@linux.itcareerhub.de
+  215  cd /c/Users/ICH/Desktop/Linux/git_intro
+  216  ls -la
+  217  git init
+  218  git add cat.avif
+  219  git commit -m "Added photo"
+  220  git branch -M main
+  221  git remote add origin git@github.com:AlexKot13/git_intro.git
+  222  git remote -v
+  223  git push -u origin main
+  224  git status
+  225  ssh ec2-user@linux.itcareerhub.de
+  226  mkdir 25.06
+  227  cd 25.06
+  228  git init
+  229  echo "" > text.txt
+  230  ls
+  231  git status
+  232  git add text.txt
+  233  ls
+  234  ls
+  235  git status
+  236  git rm --cached
+  237  git rm --cached text.txt
+  238  git status
+  239  git add .
+  240  git commit -m "commit message"
+  241  git branch -M main
+  242  git checkout -b test
+  243  git branch
+  244  ls -l
+  245  ls -la
+  246  cat .git
+  247  git add .
+  248  cd ..
+  249  cd 25.06
+  250  ls -la
+  251  git commit
+  252  git rebase main
+  253  git status
+  254  git commit -m "Commit"
+  255  git switch main
+  256  git log
+  257  git rebase test
+  258  git log
+  259  git switch test
+  260  git log
+  261  git switch main
+  262  git branch -d test
+  263  git branch
+  264  git log
+  265  clear
+  266  git clone git@github.com:AlexKot13/bashscripts.git
+  267  cd bashscripts
+  268  ls -la
+  269  git remote -v
+  270  git remote add upstream https://github.com/aliaskov/bashscripts.git
+  271  git remote -v
+  272  git checkout -b test
+  273  git checkout master
+  274  cd ..
+  275  ls -la
+  276  cd 25.06
+  277  ls -la
+  278  cd ..
+  279  ls -la .git
+  280  cd
+  281  git branch
+  282  git rev-parse --show-toplevel
+  283  mkdir test
+  284  ls -la test
+  285  cd test
+  286  git init
+  287  ls -la
+  288  git branch -M main
+  289  git log
+  290  cd ..
+  291  rm -r test
+  292  ls -la
+  293  ssh ec2-user@linux.itcareerhub.de
+  294  ssh ec2-user@linux.itcareerhub.de
+  295  ssh ec2-user@linux.itcareerhub.de
+  296  mkdir git-branch
+  297  cd git-branch
+  298  git init
+  299  git branch -M main
+  300  git remote add origin git@github.com:AlexKot13/git-branch.git
+  301  git checkout -b gitignore
+  302  nano .gitignore
+  303  git add .gitignore
+  304  git commit -m "Add .gitignore from example"
+  305  git push -u origin gitignore
+  306  ssh ec2-user@linux.itcareerhub.de
+  307  ssh ec2-user@linux.itcareerhub.de
+  308  pwd
+  309  scp ec2-user@linux.itcareerhub.de://opt/250425-wdm/sasha-kot/permission_checker.sh
+  310  ssh ec2-user@linux.itcareerhub.de:/opt/250425-wdm/sasha-kot/permission_checker.sh .
+  311  scp ec2-user@linux.itcareerhub.de:/opt/250425-wdm/sasha-kot/permission_checker.sh .
+  312  mv permission_checker.sh permission_checker.txt
+  313  ls -l
+  314  cd linux
+  315  find ~ -name "permission_checker.sh"
+  316  cd /c/Users/ICH/Desktop/Linux
+  317  mv permission_checker.sh permission_checker.txt
+  318  [200~ git AlexKot13/linux-homework-12clone AlexKot13/linux-homework-12
+  319  git clone https://github.com/AlexKot13/linux-homework-12.git
+  320  cd linux-homework-12
+  321  touch .gitignore
+  322  echo "*.log" > .gitignore
+  323  git checkout -b feature
+  324  echo "# Linux Homework 12" > README.md
+  325  git add .
+  326  git commit -m "Добавлены README.md и .gitignore"
+  327  git push origin feature
+  328  git commit --amend -m "Добавлены README.md и .gitignore (ammend)"
+  329  git push --force
+  330  git checkout main
+  331  git merge feature
+  332  history > history.txt
